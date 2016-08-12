@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">TicTacToe</string>
+    <string name="action_settings">Settings</string>
+    <string name="chipimage">image</string>
+    <string name="message">You Won!</string>
+    <string name="play">Play Again!</string>
+</resources>
